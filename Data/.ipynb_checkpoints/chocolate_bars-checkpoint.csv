@@ -1,0 +1,27 @@
+Name,Brand,Weight(g),Calories(per100g),Fat(per100g),Carbohydrate(per100g),Fibre(per100g),Protein(per100g),Salt(per100g),HasNuts,HasWafer,HasCaramel,HasHoneycomb,HasNougat,LabelSwim
+KitKat Chunky,Nestle,40,516,25.6,65.1,1.7,5.4,0.18,0,1,0,0,0,1
+Boost,Cadbury,48.5,515,28.5,58.5,1.5,5.9,0.3,0,0,1,0,0,1
+Dairy Milk,Cadbury,45,530,30.5,56.5,0.7,7.5,0.23,0,0,0,0,0,0
+Galaxy,Mars,42,546,32.4,56,,6.7,0.25,0,0,0,0,0,0
+Twix,Mars,50,495,24,64.6,,4.5,0.44,0,0,1,0,0,1
+Picnic,Cadbury,48.4,485,22.5,61,2.3,7.7,0.53,1,1,1,0,0,1
+Snickers,Mars,48,511,28,54.5,,9.4,0.44,1,0,1,0,1,1
+Crunchie,Cadbury,40,465,17.5,73.5,1.3,3.5,0.73,0,0,0,1,0,0
+Bounty,Mars,57,488,26,58.5,,3.8,0.26,0,0,0,0,0,0
+Yorkie,Nestle,46,540,30.5,59.8,1.7,5.8,0.2,0,0,0,0,0,0
+Wispa,Cadbury,39,550,34,52.5,1,7.3,0.23,0,0,0,0,0,0
+KitKat,Nestle,45,510,24.8,64.6,2,5.8,0.2,0,1,0,0,0,0
+Mars,Mars,51,450,16.9,69.3,,4.3,0.39,0,0,1,0,1,1
+Flake,Cadbury,32,535,30.5,56,0.7,8.1,0.28,0,0,0,0,0,0
+Kinder Bueno,Ferrero,43,572,37.3,49.5,,8.6,0.27,0,1,0,0,0,0
+Wispa Gold,Cadbury,52,510,29.5,56,0.6,5.4,0.4,0,0,1,1,0,0
+Fudge,Cadbury,25.5,448,15,74,0.6,2.4,0.34,0,0,0,0,0,
+Milkybar,Nestle,25,546,31.6,57.7,0,7.5,0.4,0,0,0,0,0,
+Curlywurly,Cadbury,26,453,18,70,0.7,3.1,0.58,0,0,1,0,0,
+Twirl,Cadbury,43,535,31,56.5,0.8,7.6,0.25,0,0,0,0,0,
+Caramel,Cadbury,45,480,23.5,62.5,0.4,4.8,0.4,0,0,1,0,0,
+Double Decker,Cadbury,54.5,459,17,71,1.6,4,0.19,0,1,0,0,1,
+Yorkie Raisin and Biscuit,Nestle,44,507,25.3,61.7,1.9,5.5,0.22,1,1,0,0,0,
+Reese's Nut Bar,Hershey,47,530,30.3,50.8,,10.8,0.4,1,0,1,0,0,
+Maltesers Teasers,Mars,35,532,29.8,57.9,,7.4,0.37,0,0,0,1,0,
+Hershey's Cookie and Cream,Hershey,43,510,26.8,63.5,,6.6,0.6,0,1,0,0,0,
